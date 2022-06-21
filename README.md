@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @fecichi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in english
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on github
+- 📫 How to reach me 
+- www.feichi.com
 
 <!---
 fecichi/fecichi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
